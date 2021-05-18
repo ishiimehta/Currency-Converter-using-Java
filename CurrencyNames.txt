@@ -1,0 +1,90 @@
+MYR Malaysian Ringgit
+SGD Singapore Dollar
+JPY Japanese Yen
+BDT Bangladeshi Taka
+CNY Chinese Yuan
+HKD Hong Kong Dollar
+IDR Indonesian Rupiah
+KHR Cambodian Riel
+KRW South Korean Won
+LAK Lao Kip
+LKR Sri Lankan Rupee
+MVR Maldivian Rufiyaa
+NPR Nepalese Rupee
+PHP Philippine Peso
+PKR Pakistani Rupee
+THB Thai Baht
+TWD Taiwanese Dollar
+VND Vietnamese Dong
+EUR Euro
+GBP British Pound Sterling
+CHF Swiss Franc
+BAM Bosnia and Herzegovina  ible mark
+BGN Bulgarian Lev
+CZK Czech Koruna
+DKK Danish Krone
+HRK Croatian Kuna
+HUF Hungarian Forint
+ISK Icelandic Krona
+MDL Moldovan Leu
+MKD Macedonian Denar
+NOK Norwegian Krone
+PLN Polish Zloty
+RON Romanian Leu
+RSD Serbian Dinar
+RUB Russian Rouble
+SEK Swedish Krona
+TRY Turkish Lira
+UAH Ukraine Hryvnia
+AED United Arab Emirates Dirham
+SAR Saudi Riyal
+OMR Omani Rial
+BHD Bahraini Dinar
+ILS Israeli Sheqel
+IRR Iranian Rial
+JOD Jordanian Dinar
+KWD Kuwaiti Dinar
+LBP Lebanese Pound
+QAR Qatari Riyal
+SYP Syrian Pound
+USD United States Dollar
+CAD Canadian Dollar
+AWG Aruban Florin
+BBD Barbadian Dollar
+BMD Bermudian Dollar
+BSD Bahamian Dollar
+DOP Dominican Peso
+GTQ Guatemalan Quetzal
+JMD Jamaican Dollar
+MXN Mexican Peso
+PAB Panamanian Balboa
+XCD East Caribbean Dollar
+AUD Australian Dollar
+FJD Fijian Dollar
+NZD New Zealand Dollar
+XPF CFP Franc
+ARS Argentine Peso
+BOB Bolivian Boliviano
+BRL Brazilian Real
+CLP Chilean Peso
+COP Colombian Peso
+PEN Peruvian Sol
+PYG Paraguayan GuaranÃ­
+UYU Uruguayan Peso
+VES Venezuelan BolÃ­var
+ZAR South African Rand
+EGP Egyptian Pound
+GHS Ghana Cedi
+GMD Gambian Dalasi
+KES Kenyan Shilling
+MAD Moroccan Dirham
+MGA Malagasy Ariary
+MUR Mauritian Rupee
+NAD Namibian Dollar
+NGN Nigerian Naira
+SCR Seychellois Rupee
+TND Tunisian Dinar
+UGX Ugandan Shilling
+XAF Central African Franc
+XOF West African Franc
+INR Indian Rupee
